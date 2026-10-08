@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "EduNova (Edge)",
+      "request": "launch",
+      "type": "dart",
+      "deviceId": "edge",
+      "program": "${workspaceFolder}/lib/main.dart",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
